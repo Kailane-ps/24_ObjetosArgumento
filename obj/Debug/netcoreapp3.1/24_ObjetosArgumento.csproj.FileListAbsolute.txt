@@ -1,0 +1,13 @@
+C:\Users\Kailane\Desktop\SENAI K\24_ObjetosArgumento\bin\Debug\netcoreapp3.1\24_ObjetosArgumento.exe
+C:\Users\Kailane\Desktop\SENAI K\24_ObjetosArgumento\bin\Debug\netcoreapp3.1\24_ObjetosArgumento.deps.json
+C:\Users\Kailane\Desktop\SENAI K\24_ObjetosArgumento\bin\Debug\netcoreapp3.1\24_ObjetosArgumento.runtimeconfig.json
+C:\Users\Kailane\Desktop\SENAI K\24_ObjetosArgumento\bin\Debug\netcoreapp3.1\24_ObjetosArgumento.runtimeconfig.dev.json
+C:\Users\Kailane\Desktop\SENAI K\24_ObjetosArgumento\bin\Debug\netcoreapp3.1\24_ObjetosArgumento.dll
+C:\Users\Kailane\Desktop\SENAI K\24_ObjetosArgumento\bin\Debug\netcoreapp3.1\24_ObjetosArgumento.pdb
+C:\Users\Kailane\Desktop\SENAI K\24_ObjetosArgumento\obj\Debug\netcoreapp3.1\24_ObjetosArgumento.csprojAssemblyReference.cache
+C:\Users\Kailane\Desktop\SENAI K\24_ObjetosArgumento\obj\Debug\netcoreapp3.1\24_ObjetosArgumento.AssemblyInfoInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\24_ObjetosArgumento\obj\Debug\netcoreapp3.1\24_ObjetosArgumento.AssemblyInfo.cs
+C:\Users\Kailane\Desktop\SENAI K\24_ObjetosArgumento\obj\Debug\netcoreapp3.1\24_ObjetosArgumento.csproj.CoreCompileInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\24_ObjetosArgumento\obj\Debug\netcoreapp3.1\24_ObjetosArgumento.dll
+C:\Users\Kailane\Desktop\SENAI K\24_ObjetosArgumento\obj\Debug\netcoreapp3.1\24_ObjetosArgumento.pdb
+C:\Users\Kailane\Desktop\SENAI K\24_ObjetosArgumento\obj\Debug\netcoreapp3.1\24_ObjetosArgumento.genruntimeconfig.cache
